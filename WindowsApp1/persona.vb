@@ -18,4 +18,6 @@
     Function setedad() As Integer
         Return Me.edad
     End Function
+    'prueba de cambios
+
 End Class
